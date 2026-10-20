@@ -19,7 +19,7 @@
 
 # 📚 Proyecto Examen — Programación Java
 
-## 👥 Integrantes
+## 👥 Integrante
 - Dávila Hernández Gabriel Marcelo
 
 ## 🎓 Curso
