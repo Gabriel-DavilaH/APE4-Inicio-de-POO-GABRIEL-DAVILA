@@ -1,17 +1,10 @@
 <div align="center">
 
-  <!-- Encabezado animado verde militar -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:263A29,50:4B5320,100:789262&height=220&section=header&text=Examen&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Encabezado animado del proyecto Examen" width="100%"/>
-
-  <br>
-
-  <!-- Logo pequeño del proyecto -->
 <img src="https://github.com/user-attachments/assets/e0f2bb8b-2840-421f-8f8b-3ae0511d4453" alt="Logo del proyecto" width="50"/>
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:263A29,50:4B5320,100:789262&text=GU%C3%8DA%20APE&fontColor=A3B18A&fontSize=50&fontAlignY=38&desc=Proyecto%20Java&descAlignY=60&descSize=20" width="100%" alt="Encabezado GUÍA APE"/>
 
-  <!-- Frases animadas -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A3B18A&center=true&vCenter=true&width=800&height=90&lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;Primero+lo+imaginamos.+Luego+lo+programamos.;Y+si+falla%2C+lo+depuramos+juntos.;Que+la+fuerza+del+debug+nos+acompa%C3%B1e." alt="Frases animadas de programación"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A3B18A&center=true&vCenter=true&width=650&lines=Programaci%C3%B3n+Orientada+a+Objetos;Cinco+ejercicios+en+Java;Aprendiendo+a+programar" alt="Texto animado"/>
 
 </div>
 
