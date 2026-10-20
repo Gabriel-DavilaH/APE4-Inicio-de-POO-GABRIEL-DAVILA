@@ -20,10 +20,7 @@
 # 📚 Proyecto Examen — Programación Java
 
 ## 👥 Integrantes
-
-- Toalombo Punina Jeremy Patricio
 - Dávila Hernández Gabriel Marcelo
-- Masabanda Chasiluisa Jeremy Isaac
 
 ## 🎓 Curso
 
@@ -33,37 +30,36 @@
 
 Este repositorio contiene cinco ejercicios desarrollados en Java para poner en práctica los fundamentos de la programación orientada a objetos (POO).
 
-Cada ejercicio se encuentra organizado en una carpeta independiente y cuenta con una clase principal `Main.java`, encargada de ejecutar el programa, además de las clases auxiliares necesarias.
+Cada ejercicio se encuentra organizado en una carpeta independiente y cuenta con una clase principal `Ejercicio#.java`, encargada de ejecutar el programa, además de las clases auxiliares necesarias.
 
 Los ejercicios abarcan el manejo de clases y objetos, atributos, métodos, constructores, arreglos de objetos, estructuras condicionales y ciclos repetitivos.
 
 ## 📂 Organización del repositorio
 
 ```text
-ProyectoJava/
+APE4-Inicio-de-POO-GABRIEL-DAVILA/
 │
 ├── Ejercicio1/
 │   ├── Estudiante.java
-│   └── Main.java
+│   └── Ejercicio1.java
 │
 ├── Ejercicio2/
 │   ├── Producto.java
-│   └── Main.java
+│   └── Ejercicio2.java
 │
 ├── Ejercicio3/
 │   ├── Mascota.java
-│   └── Main.java
+│   └── Ejercicio3.java
 │
 ├── Ejercicio4/
 │   ├── Cuenta.java
-│   └── Main.java
+│   └── Ejercicio4.java
 │
 ├── Ejercicio5/
 │   ├── Libro.java
 │   ├── Socio.java
-│   └── Main.java
+│   └──Ejercicio5.java
 │
-├── logo.png
 └── README.md
 ```
 
@@ -163,12 +159,12 @@ Cuando un socio presta un libro disponible, el sistema actualiza su estado y aum
 1. Descargue o clone el repositorio en su computadora.
 2. Abra el proyecto en su entorno de desarrollo Java.
 3. Seleccione la carpeta del ejercicio que desea ejecutar.
-4. Abra el archivo `Main.java`.
-5. Ejecute el método `main`.
+4. Abra el archivo `Ejercicio#.java`.
+5. Ejecute el método `Ejercicio#`.
 6. Observe los resultados que aparecen en la consola.
 7. Repita el procedimiento con los demás ejercicios.
 
-**Nota:** cada carpeta contiene su propia clase principal `Main.java`. Por eso, los ejercicios se ejecutan de manera independiente.
+**Nota:** cada carpeta contiene su propia clase principal `Ejercicio#.java`. Por eso, los ejercicios se ejecutan de manera independiente.
 
 ## 📖 Aprendizajes obtenidos
 
