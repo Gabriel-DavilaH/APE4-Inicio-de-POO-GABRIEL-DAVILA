@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e0f2bb8b-2840-421f-8f8b-3ae0511d4453" alt="Logo del proyecto" width="50"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:263A29,50:4B5320,100:789262&text=GU%C3%8DA%20APE&fontColor=A3B18A&fontSize=50&fontAlignY=38&desc=Proyecto%20Java&descAlignY=60&descSize=20" width="100%" alt="Encabezado GUÍA APE"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A3B18A&center=true&vCenter=true&width=650&lines=Programaci%C3%B3n+Orientada+a+Objetos;Cinco+ejercicios+en+Java;Aprendiendo+a+programar" alt="Texto animado"/>
 
+<img src="https://github.com/user-attachments/assets/e0f2bb8b-2840-421f-8f8b-3ae0511d4453" alt="Logo del proyecto" width="50"/>
 </div>
 
 ---
