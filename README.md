@@ -6,7 +6,7 @@
   <br>
 
   <!-- Logo pequeño del proyecto -->
-  <img src="<img width="512" height="512" alt="MCTools-Avatar-Gab_YT_drops_512px" src="https://github.com/user-attachments/assets/e0f2bb8b-2840-421f-8f8b-3ae0511d4453" />" alt="Logo del proyecto" width="90"/>
+<img src="https://github.com/user-attachments/assets/e0f2bb8b-2840-421f-8f8b-3ae0511d4453" alt="Logo del proyecto" width="50"/>
 
   <br>
 
